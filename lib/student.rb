@@ -13,5 +13,6 @@ class Student
   end
 
   def grade
-    scores.sum / scores.size.to_f  end
+    scores.sum / scores.size.to_f  
+  end
 end
